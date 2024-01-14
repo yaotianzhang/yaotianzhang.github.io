@@ -16,4 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-你好! Hello! I'm currently a first-year Ph.D. student in the School of Journalism and Communication, Nanjing University, advised by [Cheng-Jun Wang](https://chengjunwang.com/). I'm also a member of [Computational Communication Collaboratory](https://chengjun.github.io/socrateslab/), Nanjing University. My interests focus on Computational Social Science, Social Physics, Link Prediction, and Causal Inference. My studies have been presented or accepted by Physica A, ACM Web Science Conference. I had two full-time internship at DiDi Chuxing (Data Analysis intern) and Bytedance (HRBP intern). Click on the purple highlighted text, you will get more information.
+你好! I'm currently a first-year Ph.D. student in the School of Journalism and Communication, at Nanjing University, advised by [Cheng-Jun Wang](https://chengjunwang.com/). I'm also a member of [Computational Communication Collaboratory](https://chengjun.github.io/socrateslab/), at Nanjing University. My interests focus on Computational Communication, Social Culture, Computational Narrative, and Causal Inference. 
+
+I had two full-time internships at DiDi Chuxing (Data Analysis intern) and Bytedance (HRBP intern). I try my best to roll the racket and hit the tennis accurately.
