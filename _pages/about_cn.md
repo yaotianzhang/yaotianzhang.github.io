@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: about_cn
 title: 中文
 permalink: /cn/
 subtitle: 
