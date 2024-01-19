@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: about_cn
 title: 中文
 permalink: /
 subtitle: 
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-你好! 我目前是南京大学新闻与传播学院的一年级博士生，导师是[王成军](https://chengjunwang.com/).我也是南京大学[计算通信合作组织](https://chengjun.github.io/socrateslab/)的成员。我的兴趣集中在计算交流、社会文化、计算叙事和因果推理。我在重庆大学获得了文学学士学位。
+你好! 我目前是南京大学新闻与传播学院的一年级博士生，导师是[王成军](https://chengjunwang.com/).我也是南京大学[计算传播学实验室](https://chengjun.github.io/socrateslab/)的成员。我的研究使用计算和因果推断的方法来分析叙事、社会文化以及他们对群体注意力和行为的影响。我在重庆大学获得了文学学士学位。
 
 我曾在滴滴出行（数据分析实习生）和字节跳动（HRBP实习生）做过两次全职实习。
 
