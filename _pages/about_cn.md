@@ -1,8 +1,10 @@
 ---
 layout: about_cn
 title: 中文
-permalink: /
+permalink: /cn/
 subtitle: 
+nav: true
+nav_order: 99
 
 profile:
   align: right
