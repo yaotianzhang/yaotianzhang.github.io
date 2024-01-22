@@ -22,7 +22,10 @@ social: true # includes social icons at the bottom of the page
 
 我曾在滴滴出行（数据分析实习生）和字节跳动（HRBP实习生）做过两次全职实习。
 
-
+#### 教育经历 
+- 2016-2020 重庆大学 新闻学学士
+- 2020-2023 南京大学 传播学硕士研究生
+- 2023-2027 南京大学 传播学博士研究生
 
 #### 会议论文
 Zhang Y., Wang Y., Yan L., Liu Y. (2024) Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. ICA 2024, Gold Coast, Australia.
