@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /assets/pdf/CV_Yaotian_202404.pdf
 title: cv
 nav: true
 nav_order: 5
