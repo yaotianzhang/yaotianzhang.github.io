@@ -30,7 +30,7 @@ I obtained my B.A. degree from the School of Journalism at Chongqing University.
 
 - **Aug 31, 2023**: I become a Ph.D. student at the School of Journalism and Communication, Nanjing University. 🎓
 
-## [Selected Publications](/publications)
+## Selected Publications
 
 - **Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932-1937)**  
   Y. Sun, X.F. Yan, Y. Zhang, H. Chen, Chen Z.\*, and C.J.\* Wang  
