@@ -33,9 +33,9 @@ I obtained my B.A. degree from the School of Journalism at Chongqing University.
 ## Selected Publications
 
 - **Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932-1937)**  
-  Y. Sun, X.F. Yan, Y. Zhang, H. Chen, Chen Z.\*, and C.J.\* Wang  
+  Y. Sun, X.F. Yan, Y. Zhang, H. Chen, Chen Z.\*, and C.J. Wang\*  
   _Chinese Journal of Communication_, 2024. Forthcoming.
 
 - **Peeking strategy for online news diffusion prediction via machine learning**  
-  Y. Zhang, M. Feng, K. K.\* Shang, Y. Ran, and C. J.\* Wang  
+  Y. Zhang, M. Feng, K. K. Shang\*, Y. Ran, and C. J. Wang\*  
   _Physica A: Statistical Mechanics and its Applications_, 2022.
