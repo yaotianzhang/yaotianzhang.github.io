@@ -18,11 +18,11 @@ social: true # includes social icons at the bottom of the page
 
 你好! I'm currently a first-year Ph.D. student in the School of Journalism and Communication, at Nanjing University, advised by [Cheng-Jun Wang](https://chengjunwang.com/). I'm also a member of [Computational Communication Collaboratory](https://chengjun.github.io/socrateslab/), at Nanjing University. 
 
-My research focuses on **social culture**, **social networks**, **moral expression**, and **interactive narrative** in new media technology contexts. My primary research explores the following questions: Does the semantic progression of interactive narratives depend on the characteristics of the interactive systems within which they are embedded? How do these interactive narratives and social culture shape people's attention toward specific subjects and their real-world impacts? My work has been accepted by _Physica A_ and _ICA Annual Conference_. My research is funded by several national and internal grants. 
+My research focuses on **behavioral and emotional effects of social media and AI**. My primary research explores the following questions: What is the motivation behind people taking action? How emotions and discourse in social media shape social reality, and what kind of feedback will social reality generate? My work has been accepted by _Physica A_ and _ICA Annual Conference_. My research is funded by several national and internal grants. 
 
 I use classic computational methods like sentiment analysis, time series analysis, and machine learning, as well as causal inference method to explore relations of the key concept of social scientific theory. Currently, I am developing a new word embedding method to explore the semantic progress of interactive narrative.  
 
-I obtained my B.A. degree from the School of Journalism at Chongqing University. I had two full-time internships at DiDi Chuxing (Data Analysis intern) and Bytedance (HRBP intern). Outside work, I try my best to roll the racket and hit the tennis accurately. My squat weight is 70kg, and I hope to quickly exceed 30kg in the bench press.
+I obtained my B.A. degree from the School of Journalism at Chongqing University. I had two full-time internships at DiDi Chuxing (Data Analysis intern) and Bytedance (HRBP intern). Outside work, I try my best to roll the racket and hit the tennis accurately. 
 
 ## News
 
