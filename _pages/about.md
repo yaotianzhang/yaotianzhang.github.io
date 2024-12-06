@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 你好! I'm currently a first-year Ph.D. student in the School of Journalism and Communication, at Nanjing University, advised by [Cheng-Jun Wang](https://chengjunwang.com/). I'm also a member of [Computational Communication Collaboratory](https://chengjun.github.io/socrateslab/), at Nanjing University. 
 
-My research focuses on **behavioral and emotional effects of social media and AI**. My primary research explores the following questions: What is the motivation behind people taking action? How emotions and discourse in social media shape social reality, and what kind of feedback will social reality generate? My work has been accepted by _Physica A_ and _ICA Annual Conference_. My research is funded by several national and internal grants. 
+My research focuses on **behavioral and emotional effects of social culture**. My primary research explores the following questions: What is the motivation behind people taking action? How emotions and discourse in social media shape social reality, and what kind of feedback will social reality generate? My work has been accepted by _Physica A_ and _ICA Annual Conference_. My research is funded by several national and internal grants. 
 
 I use classic computational methods like sentiment analysis, time series analysis, and machine learning, as well as causal inference method to explore relations of the key concept of social scientific theory. Currently, I am developing a new word embedding method to explore the semantic progress of interactive narrative.  
 
