@@ -32,9 +32,10 @@ I obtained my B.A. degree from the School of Journalism at Chongqing University.
 - **Aug 31, 2023**: I become a Ph.D. student at the School of Journalism and Communication, Nanjing University. 🎓
 
 ## Selected Publications
+
 - **Unraveling the Shape of Social Media Narratives: Analyzing the Effects of Online Interaction and Narrative Structure on Attention to Digital Asset Transactions**
    Zhang, Y., Sun, Y., & Wang, C. J. (2025). 
-   Journal of Broadcasting & Electronic Media, 1–19. https://doi.org/10.1080/08838151.2025.2484347
+   _Journal of Broadcasting & Electronic Media, 1–19. https://doi.org/10.1080/08838151.2025.2484347
 
 
 - **Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932-1937)**  
