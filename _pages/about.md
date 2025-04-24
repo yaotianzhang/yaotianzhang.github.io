@@ -34,14 +34,9 @@ I obtained my B.A. degree from the School of Journalism at Chongqing University.
 ## Selected Publications
 
 - **Unraveling the Shape of Social Media Narratives: Analyzing the Effects of Online Interaction and Narrative Structure on Attention to Digital Asset Transactions**
-   Zhang, Y., Sun, Y., & Wang, C. J. (2025). 
-   _Journal of Broadcasting & Electronic Media, 1–19. https://doi.org/10.1080/08838151.2025.2484347
-
-
-- **Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932-1937)**  
-  Y. Sun, X.F. Yan, Y. Zhang, H. Chen, Chen Z.\*, and C.J. Wang\*  
-  _Chinese Journal of Communication_, 2024. Forthcoming.
-
-- **Peeking strategy for online news diffusion prediction via machine learning**  
-  Y. Zhang, M. Feng, K. K. Shang\*, Y. Ran, and C. J. Wang\*  
+   Zhang, Y., Sun, Y., & Wang, C. J. \*
+   _Journal of Broadcasting & Electronic Media_, 2025.
+  
+- **Peeking strategy for online news diffusion prediction via machine learning**
+  Zhang, Y., Feng, M., Shang, K. K.\*, Ran, Y., & Wang, C. J.\*  
   _Physica A: Statistical Mechanics and its Applications_, 2022.
