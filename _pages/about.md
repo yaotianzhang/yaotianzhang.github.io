@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-你好! I'm currently a second-year Ph.D. student in the School of Journalism and Communication, at Nanjing University, advised by [Cheng-Jun Wang](https://chengjunwang.com/). I'm also a member of [Computational Communication Collaboratory](https://chengjun.github.io/socrateslab/), at Nanjing University. 
+你好! I'm currently a Ph.D. candidate in the School of Journalism and Communication, at Nanjing University, advised by [Cheng-Jun Wang](https://chengjunwang.com/). I'm also a member of [Computational Communication Collaboratory](https://chengjun.github.io/socrateslab/), at Nanjing University. 
 
-My research focuses on **behavioral and emotional effects of social culture**. My primary research explores the following questions: What is the motivation behind people taking action? How emotions and discourse in social media shape social reality, and what kind of feedback will social reality generate? My work has been accepted by _Internation Journal of Business Communication_ and _Journal of Broadcasting & Electronic Media_. My research is funded by several national and internal grants. 
+My research focuses on **behavioral and emotional effects of social culture**. My primary research explores the following question: What motivates people to tell stories and take action? How emotions and narratives in digital media shape social reality, and what kind of feedback will social reality generate? My work has been accepted by _Internation Journal of Business Communication_ and _Journal of Broadcasting & Electronic Media_. My research is funded by several national and internal grants. 
 
 I use classic computational methods like sentiment analysis, time series analysis, and machine learning, as well as causal inference method to explore relations of the key concept of social scientific theory. Currently, I am developing a new word embedding method to explore the semantic progress of interactive narrative.  
 
@@ -45,7 +45,7 @@ I obtained my B.A. degree from the School of Journalism at Chongqing University.
 
   Zhang, Y., Sun, Y., & Wang, C. J. \*
 
-  _Journal of Broadcasting & Electronic Media_, 2025.
+  _Journal of Broadcasting & Electronic Media_, 2025. https://doi.org/10.1080/08838151.2025.2484347
   
 - **Peeking strategy for online news diffusion prediction via machine learning**
 
